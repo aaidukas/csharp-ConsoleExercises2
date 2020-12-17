@@ -1,0 +1,11 @@
+C:\AAI\C#\ConsoleExercises2\bin\Debug\netcoreapp3.1\ConsoleExercises2.exe
+C:\AAI\C#\ConsoleExercises2\bin\Debug\netcoreapp3.1\ConsoleExercises2.deps.json
+C:\AAI\C#\ConsoleExercises2\bin\Debug\netcoreapp3.1\ConsoleExercises2.runtimeconfig.json
+C:\AAI\C#\ConsoleExercises2\bin\Debug\netcoreapp3.1\ConsoleExercises2.runtimeconfig.dev.json
+C:\AAI\C#\ConsoleExercises2\bin\Debug\netcoreapp3.1\ConsoleExercises2.dll
+C:\AAI\C#\ConsoleExercises2\bin\Debug\netcoreapp3.1\ConsoleExercises2.pdb
+C:\AAI\C#\ConsoleExercises2\obj\Debug\netcoreapp3.1\ConsoleExercises2.csprojAssemblyReference.cache
+C:\AAI\C#\ConsoleExercises2\obj\Debug\netcoreapp3.1\ConsoleExercises2.AssemblyInfoInputs.cache
+C:\AAI\C#\ConsoleExercises2\obj\Debug\netcoreapp3.1\ConsoleExercises2.AssemblyInfo.cs
+C:\AAI\C#\ConsoleExercises2\obj\Debug\netcoreapp3.1\ConsoleExercises2.dll
+C:\AAI\C#\ConsoleExercises2\obj\Debug\netcoreapp3.1\ConsoleExercises2.pdb
